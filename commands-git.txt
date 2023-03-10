@@ -1,0 +1,6 @@
+Cloner un repo: git clone https://github.com/alix-platier-favier/git-begins.git
+
+3 commandes de push: 
+git add .
+git commit -m "Salut, et encore merci pour le poisson"
+git push -u origin main 
